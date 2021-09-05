@@ -1,0 +1,30 @@
+/* - Very Dark Grayish Blue: hsl(217, 19%, 35%)
+- Desaturated Dark Blue: hsl(214, 17%, 51%)
+- Grayish Blue: hsl(212, 23%, 69%)
+- Light Grayish Blue:      */
+
+.header {
+    background: hsl(210, 46%, 95%);
+    font-family: 'Manrope', sans-serif;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+
+.navimg img {
+    width: 330px;
+    height: 330px;
+}
+
+.textimg img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.navtext {
+    background: #fff;
+}
